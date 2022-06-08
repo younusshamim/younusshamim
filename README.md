@@ -1,6 +1,5 @@
 ### Hello there 👋, I'm Younus Shamim
 #### Front-end web developer
-![Front-end web developer](https://firebasestorage.googleapis.com/v0/b/personal-portfolio-ys.appspot.com/o/githubImg%2Fround%20shape%20my%20photo.png?alt=media&token=35aa3f5a-bde3-419e-a122-87fca8c83aa3)
 
 I am a quick learner. I believe in hard work and efficiency. I always like to learn new technology and have experience with new thing. Always ready to prove myself through my work and responsibility.
 
