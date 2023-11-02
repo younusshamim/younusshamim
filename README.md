@@ -1,8 +1,7 @@
 ### Hello there 👋, I'm Younus Shamim
-#### Front-end  web developer
+#### I am a front-end-focused full-stack JavaScript developer
 
-I am a front-end-focused full-stack JavaScript developer with 1.5 years of
-professional experience. I am confident in taking on any challenges in frontend development and am passionate about it. I believe in hard work and
+I am confident in taking on any challenges in frontend development and am passionate about it. I believe in hard work and
 efficiency. I am always ready to prove myself through my work and take on
 responsibility.
 
