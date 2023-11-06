@@ -1,28 +1,3 @@
-###
-
-<img align="right" height="150" src=""  />
-
-###
-
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gifhttps://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-
 ## Hi 👋 There
 <strong> I am a front-end-focused full-stack JavaScript developer. I am confident in taking on any challenges in front-end development and am passionate about it. I believe in hard work and efficiency. I am always ready to prove myself through my work and take on responsibility. </strong>
 
