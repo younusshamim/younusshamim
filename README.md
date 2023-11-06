@@ -42,7 +42,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
 
-##
 <br/>
 
 
