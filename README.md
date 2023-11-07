@@ -2,7 +2,7 @@
 <strong> I am a front-end-focused full-stack JavaScript developer. I am confident in taking on any challenges in front-end development and am passionate about it. I believe in hard work and efficiency. I am always ready to prove myself through my work and take on responsibility. </strong>
 
  ## 🔥 Experience:
-  Software Engineer (Frontend) at  3S Software Limited
+  Software Engineer (Frontend) at  3S Software Limited <br>
   I currently work in a frontend position at my company. In this role, I have developed the frontend for several key projects:
 - Reporting Tools project for RMS (Restaurant Management System), where restaurant owners can view their business reports.
 - Waiter Ordering App for waiters, where they can simply take orders.
