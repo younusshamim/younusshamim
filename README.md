@@ -1,6 +1,9 @@
 ## Hi 👋 There
 <strong> I am a front-end-focused full-stack JavaScript developer. I am confident in taking on any challenges in front-end development and am passionate about it. I believe in hard work and efficiency. I am always ready to prove myself through my work and take on responsibility. </strong>
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/younusshamim.bd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/younusshamim.bd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/younusshamim) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/younusshamimbd) [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white)](mailto:younusshamim.bd@gmail.com)
+
  ## 🔥 Experience:
  <strong> Software Engineer (Frontend) at  3S Software Limited </strong> <br>
   I currently work in a frontend position at my company. In this role, I have developed the frontend for several key projects:
@@ -13,10 +16,6 @@
  Email: younusshamim.bd@gmail.com <br>
  Facebook: https://www.facebook.com/younusshamim.bd <br>
  LinkedIn: https://www.linkedin.com/in/younusshamim/ <br>
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/younusshamim.bd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/younusshamim.bd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/younusshamim) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/younusshamimbd) [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white)](mailto:younusshamim.bd@gmail.com)
 
 
 ## 💻 Languages and Tools:
