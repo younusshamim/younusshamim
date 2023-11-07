@@ -1,7 +1,16 @@
 ## Hi 👋 There
 <strong> I am a front-end-focused full-stack JavaScript developer. I am confident in taking on any challenges in front-end development and am passionate about it. I believe in hard work and efficiency. I am always ready to prove myself through my work and take on responsibility. </strong>
 
-📫 How to reach me:  <br>
+ ## 🔥 Experience:
+ Software Engineer (Frontend) at  3S Software Limited
+
+I currently work in a frontend position at my company. In this role, I have developed the 
+- Reporting Tools project for RMS (Restaurant Management System), where restaurant owners can view their business reports.
+- Waiter Ordering App for waiters, where they can simply take orders.
+- Kitchen Display System for kitchen staff, where they can view customer orders.
+- Control Hub for 3S support team, where they can manage all 3S clients.
+
+## 📫 How to reach me:
  Email: younusshamim.bd@gmail.com <br>
  Facebook: https://www.facebook.com/younusshamim.bd <br>
  LinkedIn: https://www.linkedin.com/in/younusshamim/ <br>
