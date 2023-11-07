@@ -4,7 +4,7 @@
  ## 🔥 Experience:
  Software Engineer (Frontend) at  3S Software Limited
 
-I currently work in a frontend position at my company. In this role, I have developed the 
+I currently work in a frontend position at my company. In this role, I have developed the frontend for several key projects:
 - Reporting Tools project for RMS (Restaurant Management System), where restaurant owners can view their business reports.
 - Waiter Ordering App for waiters, where they can simply take orders.
 - Kitchen Display System for kitchen staff, where they can view customer orders.
